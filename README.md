@@ -2,7 +2,7 @@
 
 ### Welcome to my page! 😄
 
-#### My favourite ❤ projects are now:
+#### My favourite ❤ projects are now
 
 * **JavaScript**
 * **Discord.JS**
@@ -18,8 +18,8 @@
 💻 I'm also learning C and C++ and enjoy making stuff in SDL. Thanks for reading!
 
 ----------------------------
-![C](img/c.png)
-![C++](img/cpp.png)
-![JavaScript](img/js.png)
-![Discord.JS](img/djs.png)
-![HTML5](img/html.png)
+![C](img/c2.png)
+![C++](img/cpp2.png)
+![JavaScript](img/js2.png)
+![Discord.JS](img/djs2.png)
+![HTML5](img/html2.png)
