@@ -17,7 +17,8 @@
 
 💻 I'm also learning C and C++ and enjoy making stuff in SDL. Thanks for reading!
 
-----------------------------
+## Tools
+
 ![C](img/c2.png)
 ![C++](img/cpp2.png)
 ![JavaScript](img/js2.png)
