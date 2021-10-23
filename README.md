@@ -21,4 +21,4 @@
 ![JavaScript]()
 ![HTML5]()
 ![CSS]()
-![Discord.JS]
+![Discord.JS]()
