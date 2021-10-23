@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello! 👋
 
-<!--
-**SpikySpike/SpikySpike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my page! 😄
+My favourite ❤ projects are now:
+* **JavaScript** 
+* **Discord.JS**
+* **Web Development**
+* **C** and **C++**
 
-Here are some ideas to get you started:
+----------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 I'm currently working on a Discord Bot with Discord.JS, it is yet just a test.
+
+👨‍🔬 I'm a student, but working hard to improve! 
+
+💻 I'm also learning C and C++ and enjoy making stuff in SDL. Thanks for reading!
