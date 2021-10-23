@@ -1,7 +1,7 @@
 # Hello! 👋
 
-## Welcome to my page! 😄
-My favourite ❤ projects are now:
+### Welcome to my page! 😄
+#### My favourite ❤ projects are now:
 * **JavaScript** 
 * **Discord.JS**
 * **Web Development**
@@ -14,3 +14,11 @@ My favourite ❤ projects are now:
 👨‍🔬 I'm a student, but working hard to improve! 
 
 💻 I'm also learning C and C++ and enjoy making stuff in SDL. Thanks for reading!
+
+----------------------------
+![C]()
+![C++]()
+![JavaScript]()
+![HTML5]()
+![CSS]()
+![Discord.JS]
